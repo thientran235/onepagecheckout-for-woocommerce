@@ -1,6 +1,5 @@
 === WCVN One Page Checkout ===
 Contributors: thientran2359
-Donate link: https://github.com/thientran235/wcvn-one-page-checkout/
 Tags: woocommerce, onepagecheckout, one page checkout, checkout
 Requires at least: 3.0.1
 Tested up to: 3.4

@@ -11,6 +11,7 @@
  * Plugin Name:       WCVN One Page Checkout
  * Description:       Combine Cart and Checkout process which gives users a faster checkout experience and best UI.
  * Version:           1.0.0
+ * Tags:              woocommerce, wcvn, onepagecheckout, one page checkout, checkout
  * Author:            Thien Tran
  * Author URI:        http://fb.com/makiosp1
  * License:           GPL-2.0+
