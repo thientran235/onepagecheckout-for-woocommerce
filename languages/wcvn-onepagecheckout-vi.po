@@ -1,0 +1,254 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WCVN One Page Checkout\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-05-24 10:36+0000\n"
+"PO-Revision-Date: 2021-05-24 10:36+0000\n"
+"Last-Translator: \n"
+"Language-Team: Vietnamese\n"
+"Language: vi\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.5.2; wp-5.7.2\n"
+"X-Domain: wcvn-onepagecheckout"
+
+#: public/templates/checkout/parts/additional_fields.php:9
+msgid "Additional information"
+msgstr ""
+
+#: public/templates/cart/cart.php:143
+#: public/templates/checkout/form-coupon.php:36
+#: public/templates/checkout/form-coupon.php:36
+msgid "Apply coupon"
+msgstr ""
+
+#: admin/class-onepagecheckout-admin.php:128
+msgid "Author FB"
+msgstr ""
+
+#: public/templates/cart/cart.php:81
+msgid "Available on backorder"
+msgstr ""
+
+#: public/templates/checkout/layouts/layout-1.php:2
+#: public/templates/checkout/layouts/layout-2.php:6
+msgid "Billing Details"
+msgstr ""
+
+#: public/templates/cart/cart-shipping.php:52
+msgid "Change address"
+msgstr ""
+
+#: public/templates/checkout/review-order.php:91
+msgid "Click here to enter your code"
+msgstr ""
+
+#: public/templates/checkout/form-login.php:27
+msgid "Click here to login"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Combine Cart and Checkout process which gives users a faster checkout "
+"experience and best UI."
+msgstr ""
+
+#: public/templates/checkout/layouts/layout-1.php:10
+#: public/templates/checkout/layouts/layout-2.php:10
+msgid "Confirm & Pay"
+msgstr ""
+
+#: public/templates/cart/cart.php:143
+#: public/templates/checkout/form-coupon.php:29
+#: public/templates/checkout/form-coupon.php:32
+#: public/templates/checkout/form-coupon.php:33
+msgid "Coupon code"
+msgstr ""
+
+#: public/templates/cart/cart.php:143
+msgid "Coupon:"
+msgstr ""
+
+#: public/templates/checkout/form-billing.php:44
+msgid "Create an account?"
+msgstr ""
+
+#: public/templates/cart/cart-shipping.php:67
+msgid "Enter a different address"
+msgstr ""
+
+#: public/templates/cart/cart-shipping.php:61
+msgid "Enter your address to view shipping options."
+msgstr ""
+
+#: public/templates/checkout/review-order.php:91
+msgid "Have a coupon?"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "http://chiasewp.net/wcvn-onepagecheckout/"
+msgstr ""
+
+#. URI of the plugin
+msgid "http://chiasewp.net/wcvn-onepagecheckout/onepagecheckout-uri/"
+msgstr ""
+
+#: public/templates/checkout/form-coupon.php:30
+msgid "If you have a coupon code, please apply it below."
+msgstr ""
+
+#: public/templates/checkout/form-login.php:35
+msgid ""
+"If you have shopped with us before, please enter your details below. If you "
+"are a new customer, please proceed to the Billing section."
+msgstr ""
+
+#: public/templates/checkout/form-login.php:30
+msgid "Login"
+msgstr ""
+
+#. $s shipping destination.
+#: public/templates/cart/cart-shipping.php:66
+#, php-format
+msgid "No shipping options were found for %s."
+msgstr ""
+
+#: public/templates/checkout/payment.php:33
+msgid "Please fill in your details above to see available payment methods."
+msgstr ""
+
+#: public/templates/cart/cart.php:32 public/templates/cart/cart.php:88
+msgid "Price"
+msgstr ""
+
+#: public/templates/cart/cart.php:31 public/templates/cart/cart.php:51
+msgid "Product"
+msgstr ""
+
+#: public/templates/cart/cart.php:33 public/templates/cart/cart.php:94
+msgid "Quantity"
+msgstr ""
+
+#: public/templates/checkout/review-order.php:71
+msgid "Remove"
+msgstr ""
+
+#: public/templates/cart/cart.php:123
+#: public/templates/checkout/review-order.php:70
+msgid "Remove this item"
+msgstr ""
+
+#: includes/libs/wc-city-select/wc-city-select.php:98
+msgid "required"
+msgstr ""
+
+#: public/templates/checkout/payment.php:58
+msgid "Return to Cart"
+msgstr ""
+
+#: public/templates/checkout/payment.php:55
+msgid "Return to Shop"
+msgstr ""
+
+#: public/templates/checkout/form-login.php:27
+msgid "Returning customer?"
+msgstr ""
+
+#: public/templates/checkout/layouts/layout-1.php:15
+#: public/templates/checkout/layouts/layout-2.php:2
+msgid "Review Order"
+msgstr ""
+
+#: includes/libs/wc-city-select/wc-city-select.php:138
+#: includes/libs/wc-city-select/wc-city-select.php:178
+msgid "Select an option&hellip;"
+msgstr ""
+
+#: admin/class-onepagecheckout-admin.php:127
+msgid "Settings"
+msgstr ""
+
+#: public/templates/checkout/form-shipping.php:26
+msgid "Ship to a different address?"
+msgstr ""
+
+#: public/templates/checkout/review-order.php:103
+msgid "Shipping Fee"
+msgstr ""
+
+#: public/templates/checkout/layouts/layout-1.php:5
+msgid "Shipping Method"
+msgstr ""
+
+#: public/templates/cart/cart-shipping.php:54
+msgid "Shipping options will be updated during checkout."
+msgstr ""
+
+#. $s shipping destination.
+#: public/templates/cart/cart-shipping.php:51
+#, php-format
+msgid "Shipping to %s."
+msgstr ""
+
+#. $1 and $2 opening and closing emphasis tags respectively
+#: public/templates/checkout/payment.php:42
+#, php-format
+msgid ""
+"Since your browser does not support JavaScript, or it is disabled, please "
+"ensure you click the %1$sUpdate Totals%2$s button before placing your order. "
+"You may be charged more than the amount stated above if you fail to do so."
+msgstr ""
+
+#: public/templates/checkout/payment.php:33
+msgid ""
+"Sorry, it seems that there are no available payment methods for your state. "
+"Please contact us if you require assistance or wish to make alternate "
+"arrangements."
+msgstr ""
+
+#: public/templates/checkout/review-order.php:96
+msgid "Subtotal"
+msgstr ""
+
+#: public/templates/cart/cart-shipping.php:63
+msgid ""
+"There are no shipping options available. Please ensure that your address has "
+"been entered correctly, or contact us if you need any help."
+msgstr ""
+
+#. Author of the plugin
+msgid "Thien Tran"
+msgstr ""
+
+#: admin/class-onepagecheckout-admin.php:114
+#, php-format
+msgid "To begin using \"%s\" , please install the plugin %s%s%s."
+msgstr ""
+
+#: public/templates/cart/cart.php:34 public/templates/cart/cart.php:110
+#: public/templates/checkout/review-order.php:142
+msgid "Total"
+msgstr ""
+
+#: public/templates/cart/cart.php:148
+msgid "Update cart"
+msgstr ""
+
+#: public/templates/checkout/payment.php:44
+msgid "Update totals"
+msgstr ""
+
+#. Name of the plugin
+msgid "WCVN One Page Checkout"
+msgstr ""
+
+#: admin/class-onepagecheckout-admin.php:113
+msgid "WooCommerce"
+msgstr ""
+
+#: public/templates/checkout/form-checkout.php:18
+msgid "You must be logged in to checkout."
+msgstr ""
