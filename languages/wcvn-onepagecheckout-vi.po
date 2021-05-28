@@ -89,11 +89,11 @@ msgid "Have a coupon?"
 msgstr ""
 
 #. Author URI of the plugin
-msgid "http://chiasewp.net/wcvn-onepagecheckout/"
+msgid "https://github.com/thientran235/wcvn-one-page-checkout/"
 msgstr ""
 
 #. URI of the plugin
-msgid "http://chiasewp.net/wcvn-onepagecheckout/onepagecheckout-uri/"
+msgid "https://github.com/thientran235/wcvn-one-page-checkout/onepagecheckout-uri/"
 msgstr ""
 
 #: public/templates/checkout/form-coupon.php:30

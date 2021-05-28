@@ -3,13 +3,12 @@
 /**
  * The plugin bootstrap file
  *
- * @link              http://chiasewp.net/wcvn-onepagecheckout
+ * @link              https://github.com/thientran235/wcvn-one-page-checkout
  * @since             1.0.0
  * @package           WCVN_OnePageCheckout
  *
  * @wordpress-plugin
  * Plugin Name:       WCVN One Page Checkout
- * Plugin URI:        http://chiasewp.net/wcvn-onepagecheckout/
  * Description:       Combine Cart and Checkout process which gives users a faster checkout experience and best UI.
  * Version:           1.0.0
  * Author:            Thien Tran

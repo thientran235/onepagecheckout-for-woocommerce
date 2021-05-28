@@ -19,7 +19,7 @@
  * For more information, see the following discussion:
  * https://github.com/tommcfarlin/WordPress-Plugin-Boilerplate/pull/123#issuecomment-28541913
  *
- * @link       http://chiasewp.net/wcvn-onepagecheckout
+ * @link       https://github.com/thientran235/wcvn-one-page-checkout
  * @since      1.0.0
  *
  * @package    WCVN_OnePageCheckout

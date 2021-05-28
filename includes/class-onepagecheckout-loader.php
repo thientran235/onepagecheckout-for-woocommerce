@@ -3,7 +3,7 @@
 /**
  * Register all actions and filters for the plugin
  *
- * @link       http://chiasewp.net/wcvn-onepagecheckout
+ * @link       https://github.com/thientran235/wcvn-one-page-checkout
  * @since      1.0.0
  *
  * @package    WCVN_OnePageCheckout

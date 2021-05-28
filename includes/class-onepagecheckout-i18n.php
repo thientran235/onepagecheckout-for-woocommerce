@@ -6,7 +6,7 @@
  * Loads and defines the internationalization files for this plugin
  * so that it is ready for translation.
  *
- * @link       http://chiasewp.net/wcvn-onepagecheckout
+ * @link       https://github.com/thientran235/wcvn-one-page-checkout
  * @since      1.0.0
  *
  * @package    WCVN_OnePageCheckout

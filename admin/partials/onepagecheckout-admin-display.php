@@ -5,7 +5,7 @@
  *
  * This file is used to markup the admin-facing aspects of the plugin.
  *
- * @link       http://chiasewp.net/wcvn-onepagecheckout
+ * @link       https://github.com/thientran235/wcvn-one-page-checkout
  * @since      1.0.0
  *
  * @package    WCVN_OnePageCheckout
